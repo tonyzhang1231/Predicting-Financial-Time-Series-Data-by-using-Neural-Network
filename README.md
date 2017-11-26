@@ -44,6 +44,8 @@ I suggest using  `virtualenvwrapper`, then this project will not affect others
 
 `mkvirtualenv --python=/usr/bin/python3 nameOfyourEnvironment`
 
+`workon nameOfyourEnvironment`
+
 - Install all the requirements
 
 `pip install -r requirements.txt`

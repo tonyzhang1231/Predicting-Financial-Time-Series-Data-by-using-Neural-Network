@@ -13,7 +13,7 @@ There are 2 models. Neural network and lstm-rnn.
 
 NN model result
 
-![Alt text](https://github.com/tonyzhang1231/Neural-Network-with-Financial-Time-Series-Data/blob/master/Photos/20170510result.png)
+![Alt text](https://github.com/tonyzhang1231/Predicting-Financial-Time-Series-Data-by-using-Neural-Network/blob/master/png/nnmodel.png?raw=true)
 
 Train Score: 0.00003 MSE (0.00574 RMSE)
 
@@ -25,7 +25,7 @@ Train Score: 0.00001 MSE (0.00325 RMSE)
 
 Test Score: 0.00006 MSE (0.00765 RMSE)
 
-![Alt text](https://github.com/tonyzhang1231/Neural-Network-with-Financial-Time-Series-Data/blob/master/Photos/20170510result.png)
+![Alt text](https://github.com/tonyzhang1231/Predicting-Financial-Time-Series-Data-by-using-Neural-Network/blob/master/png/lstm.png?raw=true)
 
 LSTM has better result than regular Neural network
 
